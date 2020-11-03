@@ -6,3 +6,6 @@ func main(){
 
 fmt.Println("test bestanden")
 }
+func als(){
+  fmt.Println("Test bestanden")
+}
