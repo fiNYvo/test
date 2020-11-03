@@ -1,10 +1,10 @@
-package te
+package main
 
 import "fmt"
 
 func main(){
 
-fmt.Println("test bestanden")
+fmt.Println("Hallo, der Test ist bestanden")
 }
 func als(){
   fmt.Println("Test bestanden")
